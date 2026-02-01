@@ -31,9 +31,9 @@ We chose **ChatGPT_spokesperson** because we do not understand this course and a
 - **(individual) Assignment 2:** <https://github.com/wymmust/assignment2>
 
 ### 📣 Member 3 (The )
-- **Student ID:** []
-- **Name:** []
-- **Brief Introduction:** 
+- **Student ID:** [25060282g]
+- **Name:** [WANG Qianlin]
+- **Brief Introduction:** The team’s calm observer and reality checker. Usually watches others debate with ChatGPT, then asks the one question that actually matters. Firm believer that AI is powerful—but deadlines are scarier. 
 - **(individual) Assignment 1:** <>
 - **(individual) Assignment 2:** <>
 
